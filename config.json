@@ -1,0 +1,19 @@
+{
+  "selected_server": "Server 1",
+  "servers": [
+    {
+      "name": "Server 1",
+      "host": "127.0.0.1",
+      "port": 26000
+    },
+    {
+      "name": "Server 2",
+      "host": "127.0.0.1",
+      "port": 26001
+    }
+  ],
+  "username": "Player1",
+  "game_path": "",
+  "last_server": "127.0.0.1",
+  "last_port": 26000
+}
